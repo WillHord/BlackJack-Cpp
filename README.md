@@ -14,9 +14,7 @@ To install this program run the following commands:
 
 ```
 git clone https://github.com/WillHord/BlackJack-Cpp
-```
 
-```
 cd BlackJack-Cpp && make
 ```
 
